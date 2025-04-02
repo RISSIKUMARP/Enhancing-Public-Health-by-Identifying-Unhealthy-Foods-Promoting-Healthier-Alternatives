@@ -2,7 +2,7 @@ kroger_product,description,calories,protein,fat,carbohydrates
 horizon organic shelf-stable 1% low fat milk box - strawberry,"strawberry milk, low fat (1%)",69,3.13,0.89,12.3
 kroger® 2% reduced fat milk quart,"milk, reduced fat (2%)",50,3.36,1.9,4.9
 kroger® fat free skim milk half gallon,"milk, fat free (skim)",34,3.43,0.08,4.92
-kroger® vitamin d whole milk half gallon,"milk, dry, whole, with added vitamin d",1014.0000000000008,26.3,26.7,38.4
+kroger® vitamin d whole milk half gallon,"milk, dry, whole, with added vitamin d",1014,26.3,26.7,38.4
 simple truth organic® 100% grassfed whole milk half gallon,"simple truth organic, 100% whole wheat bread",233,9.3,3.49,46.5
 organic valley® whole milk half gallon,"golden flow whole milk, one half gallon",62,3.33,3.33,5
 organic valley® family first™ whole milk with dha & omega 3,organic dha omega-3 whole milk,62,3.33,3.33,5
@@ -14,7 +14,7 @@ lala® whole milk,"milk, whole",61,3.27,3.2,4.63
 horizon organic 2% reduced fat milk half gallon,"horizon organic, 2% organic reduced fat milk",54,3.33,2.08,5
 maple hill® organic 100% grassfed whole milk,"organic 100% grassfed yogurt whole milk, blueberry",93,8,3,9.33
 horizon organic lowfat chocolate milk,"horizon organic, lowfat milk, strawberry",64,3.39,1.06,10.2
-simple truth organic® 1% lowfat milk bottles,"simple truth, organic spaghetti",357,12.5,1.79,52.74000000000001
+simple truth organic® 1% lowfat milk bottles,"simple truth, organic spaghetti",357,12.5,1.79,52.74
 "fairlife ultra-filtered milk, lactose free, high protein, whole milk",whole lactose free ultra-filtered milk,79,8.33,3.75,2.92
 kroger® 1% lowfat milk gallon,"kroger, 1% lowfat milk",42,3.33,1.04,5
 horizon organic grassfed vitamin d whole milk,organic grassfed vitamin d milk,71,3.33,3.75,5.42
@@ -109,22 +109,22 @@ betterbody foods oatsome® organic barista oat drink,"barista organic oat drink,
 hiland dairy bulgarian buttermilk,"bulgarian cultured buttermilk, bulgarian",67,3.75,3.33,5.42
 hiland cultured lowfat buttermilk,"milk, buttermilk, fluid, cultured, lowfat",169,3.31,1.07,4.79
 barney butter blanched almond flour - 13 oz (368 g),"barney butter, almond butter",529,17.6,32.1,23.5
-kraft smooth & creamy mozzarella natural cheese 12 oz,kraft velveeta pasteurized process cheese spread,1014.0000000000008,16.3,22,9.8
+kraft smooth & creamy mozzarella natural cheese 12 oz,kraft velveeta pasteurized process cheese spread,1014,16.3,22,9.8
 kroger® mexican style blend shredded cheese,"kroger, mexican style blend finely shredded cheese",357,21.4,28.6,3.57
 sargento® off the block 4 state cheddar® shredded cheese,"sargento, 4 shredded italian cheese",286,28.6,16.1,3.57
-kroger® whole milk mozzarella shredded cheese,"cheese, mozzarella, whole milk",1014.0000000000008,22.2,22.1,2.4
+kroger® whole milk mozzarella shredded cheese,"cheese, mozzarella, whole milk",1014,22.2,22.1,2.4
 kroger® singles american sliced cheese,"kroger, american cheese singles",316,15.8,23.7,5.26
 simple truth organic® colby jack sliced cheese,"cheese, colby jack",393,23.19,32.1,2.24
 kroger® singles pepper jack sliced cheese,"kroger, pepper jack cheese singles",286,19,19,9.52
 sargento® off the block fine cut 4 cheese mexican blend natural cheese shreds,finely shredded mexican 4 cheese blend,393,25,32.1,3.57
 kroger® singles 4 cheese blend sliced cheese,"kroger, 3 cheese blend singles",333,19,23.8,9.52
-simple truth organic® sharp white cheddar sliced cheese,"cheese, cheddar, sharp, sliced",1014.0000000000008,24.2,32.1,2.13
+simple truth organic® sharp white cheddar sliced cheese,"cheese, cheddar, sharp, sliced",1014,24.2,32.1,2.13
 sargento® swiss sliced cheese,"cheese, swiss",393,27,31,1.44
 sargento® pepper jack sliced cheese,"pepper jack cheese slices, pepper jack",391,26.1,30.4,4.35
 kroger® mozzarella shredded cheese,"kroger, mozzarella finely shredded cheese",286,28.6,17.9,3.57
 kroger® sharp cheddar shredded cheese,"kroger, sharp cheddar shredded cheese",393,25,32.1,3.57
 kroger® mild cheddar shredded cheese family size,"our family, natural shredded mild cheddar cheese",286,25,21.4,3.57
-kroger® parmesan shredded cheese,"cheese, parmesan, shredded",1014.0000000000008,25,27.3,3.41
+kroger® parmesan shredded cheese,"cheese, parmesan, shredded",1014,25,27.3,3.41
 kroger® medium cheddar block cheese,"kroger, medium cheddar cheese",393,25,32.1,3.57
 kraft singles american sliced cheese,kraft free singles american nonfat pasteurized process cheese product,619,22.7,1,11.7
 kroger® extra sharp cheddar block cheese,"kroger, extra sharp cheddar cheese",393,25,32.1,3.57
@@ -167,7 +167,7 @@ private selection® mild cheddar blend thick cut shredded cheese,"mild cheddar b
 kraft colby jack finely shredded cheese,"colby jack shredded colby & monterey jack cheese finely shredded, colby jack",393,21.4,28.6,3.57
 cacique® queso quesadilla shredded cheese,"queso quesadilla shredded cheese, queso quesadilla",357,21.4,28.6,3.57
 velveeta shreds original flavor shredded cheese,"velveeta, shreds, shredded pasteurized prepared cheese product, original, original",214,17.9,10.7,10.7
-private selection® grated romano cheese,"cheese, romano",1014.0000000000008,31.8,26.9,3.63
+private selection® grated romano cheese,"cheese, romano",1014,31.8,26.9,3.63
 kroger® havarti sliced cheese,"havarti cheese slices, havarti",391,21.7,30.4,4.35
 kroger® gouda sliced cheese,"cheese, gouda",356,24.9,27.4,2.22
 kraft deli deluxe american sliced cheese,"american deli deluxe cheese slices, american",381,19,32.1,4.76
@@ -184,13 +184,13 @@ private selection® gruyere cheddar cheese slices,"cheese, gruyere",413,29.81,32
 kroger® fresh mozzarella sliced cheese,"sliced fresh mozzarella cheese, sliced fresh mozzarella",250,17.9,17.9,3.57
 private selection® vermont sharp white cheddar sliced cheese,"private selection, vermont extra sharp white cheddar cheese snack",393,25,32.1,3.57
 kroger® original nice'n cheesy® pasteurized prepared cheese product,"original smooth & cheesy pasteurized prepared cheese product, original smooth & cheesy",286,17.9,21.4,10.7
-velveeta queso blanco cheese,"cheese, white, queso blanco",1014.0000000000008,20.4,24.3,2.53
+velveeta queso blanco cheese,"cheese, white, queso blanco",1014,20.4,24.3,2.53
 kroger® orange rind muenster block cheese,"kroger, orange rind muenster",357,21.4,28.6,3.57
 private selection® asiago wedge cheese,"asiago cheese wedge, asiago",393,25,32.1,3.57
 kroger® mercado queso panela cheese,mercado queso panela whole milk cheese,36,21.4,25,3.57
-kroger® mercado quesadilla cheese,"on the border, cheese quesadilla",1014.0000000000008,16.9,25.5,24.2
+kroger® mercado quesadilla cheese,"on the border, cheese quesadilla",1014,16.9,25.5,24.2
 queso-melt jalapeno queso cheese 8 oz 10 pack,cheese and queso as ingredient,362,21.92,29.34,2.4
-"farmers market wisconsin cheese pounder set, 3 pack","mcdonald's, quarter pounder with cheese",1014.0000000000008,14.6,14.2,20
+"farmers market wisconsin cheese pounder set, 3 pack","mcdonald's, quarter pounder with cheese",1014,14.6,14.2,20
 sargento® mozzarella string cheese®,"sargento, light string cheese",238,28.6,11.9,4.76
 kroger® reduced fat mozzarella string cheese,"mozzarella reduced fat string cheese, mozzarella",214,25,8.93,3.57
 frigo® cheese heads® original mozzarella string cheese,"frigo, cheese heads, light string mozzarella cheese",208,29.2,10.4,4.17
@@ -213,9 +213,9 @@ sargento® balanced breaks® sharp white cheddar cheese cashews & raisins snack 
 cracker barrel rich & bold cheddar jack marbled snack cheese sticks,"cracker barrel, macaroni n' cheese",812,6.49,11.8,15.6
 kroger® pepper jack cheese raisins & honey roasted peanuts snack kit,"pepper jack cheese, raisins & honey roasted peanuts snacks, pepper jack cheese, raisins & honey roasted peanuts",372,18.6,25.6,27.9
 kroger® cheddar cheese cranberry & almond snack kit,"cheddar cranberries & almonds cheese snacks, cranberries & almonds",442,16.3,30.2,23.3
-frigo® cheese heads® low moisture part skim mozzarella cheese & beef salami sticks combo pack,"cheese, mozzarella, low moisture, part-skim",1014.0000000000008,23.7,20.4,4.44
+frigo® cheese heads® low moisture part skim mozzarella cheese & beef salami sticks combo pack,"cheese, mozzarella, low moisture, part-skim",1014,23.7,20.4,4.44
 sargento® balanced breaks® gouda cheese honey roasted peanuts & dried cranberries snack kit,"gouda natural cheese, honey roasted peanuts & dried cranberries snacks, gouda natural cheese, honey roasted peanuts & dried cranberries",395,18.6,23.3,30.2
-sargento® fun! balanced breaks® monterey jack cheese mixed fruit teddy grahams® cocoa snack kit,graham crackers (teddy grahams),430,6.69,10.6,52.74000000000001
+sargento® fun! balanced breaks® monterey jack cheese mixed fruit teddy grahams® cocoa snack kit,graham crackers (teddy grahams),430,6.69,10.6,52.74
 simple truth® uncured pepperoni & cheese lunchkit,"simple truth, turkey & cheese lunchkit",321,14.8,14.8,32.1
 philadelphia original cream cheese,"philadelphia, original cream cheese",357,7.14,32.1,3.57
 kroger® original cream cheese,"kroger, original cream cheese",333,6.67,32.1,6.67
@@ -229,7 +229,7 @@ kroger® original whipped cream cheese spread,"kroger, whipped strawberry creame
 kroger® whole milk ricotta cheese,"cheese, ricotta, whole milk",657,7.81,11,6.86
 daisy pure and natural 4% cottage cheese,"cheese, cottage, with fruit",74,9.41,1.96,4.94
 philadelphia chive & onion cream cheese spread,"chive & onion cream cheese spread, chive & onion",258,6.45,22.6,6.45
-kroger® low fat neufchatel cheese,"cheese, neufchatel",1014.0000000000008,9.15,22.8,3.59
+kroger® low fat neufchatel cheese,"cheese, neufchatel",1014,9.15,22.8,3.59
 philadelphia strawberry cream cheese spread,"philadelphia, cream cheese spread",258,6.45,22.6,6.45
 galbani whole milk ricotta cheese,"galbani, ricotta cheese, whole milk, whole milk",161,8.06,11.3,9.68
 good culture simply whole milk classic cottage cheese,"whole milk classic simply cottage cheese, whole milk classic",93,12.7,4,2
@@ -281,7 +281,7 @@ lifeway® plain probiotic low fat kefir drink,"kefir, lowfat, plain, lifeway",18
 go-gurt protein berry kids low fat yogurt tubes,go-gurt berry low fat yogurt tubes 8 count,86.4,3.42,0.144,17.9
 "organic sesame street fruit yogurt smoothie, strawberry banana, 4.2 oz pouch (pack of 12)","fruit juice smoothie, odwalla, strawberry banana",48,0.5,0.32,11
 yoplait go-gurt low fat yogurt,"yoplait, go-gurt, low fat yogurt",94,3.12,0.78,18.8
-sunridge farms yogurt raisins - case of 8 - 3.25 oz,"sunridge farms, yogurt pretzels",500,5,22.5,52.74000000000001
+sunridge farms yogurt raisins - case of 8 - 3.25 oz,"sunridge farms, yogurt pretzels",500,5,22.5,52.74
 chobani lowfat strawberry banana greek yogurt drinks,"yogurt, greek, 2% fat, strawberry banana, chobani",369,8,1.71,10.2
 yoplait original low fat mountain blueberry yogurt cup,yoplait original mountain blueberry low fat yogurt,88,3.53,1.18,14.7
 noosa® lemon yogurt cup,"yogurt, greek, nonfat, lemon blend, chobani",328,8.62,0.15,10.7
@@ -345,7 +345,7 @@ chobani® madagascar vanilla cinnamon less sugar low fat greek yogurt cup,"madag
 light + fit remix brownie sundae yogurt cup,"mcdonald's, strawberry sundae",158,3.19,3.95,28.1
 kroger® vanilla whole milk greek yogurt cultured dairy blend tub,"yogurt, greek, fruit, whole milk",106,7.33,3,12.3
 the greek gods® black cherry with honey greek style yogurt tub,"black cherry flavored greek style yogurt with honey, black cherry with honey",118,4.12,4.71,14.7
-too good & co™ good save meyer lemon low fat lower sugar gluten free greek yogurt cup,"too good gourmet, sugar cookies",429,3.57,17.9,52.74000000000001
+too good & co™ good save meyer lemon low fat lower sugar gluten free greek yogurt cup,"too good gourmet, sugar cookies",429,3.57,17.9,52.74
 simple truth organic® vanilla bean whole milk greek yogurt cultured dairy blend tub,organic greek vanilla bean blended whole milk yogurt,107,9.33,2.67,12
 plum organics® mighty morning tots spinach kiwi barley greek yogurt pouch,"plum organics mighty 4 blends banana, kiwi, spinach, greek yogurt & barley, 4oz",62,1.77,0.44,12.4
 go gurt berry and fruit punch kids fat free yogurt tubes,go-gurt spiderman gluten free berry and fruit punch yogurt tubes 8 count,86.4,3.42,0.144,17.9
@@ -355,7 +355,7 @@ yoplait raspberry and strawberry banana kids yogurt cups,"yoplait, kids low fat 
 yoplait go gurt bluey berry and cherry kids fat free yogurt snack tubes,go-gurt berry and cherry low fat yogurt tubes 16 count,86.4,3.42,0.144,17.9
 food for life® ezekiel 4:9® flourless sprouted grain frozen bread,flourless sprouted grain bread,235,14.7,1.47,44.1
 rudi's frozen bread,"rudi's, gluten-free bakery, original sandwich bread",320,3.13,10.7,52.8
-base culture keto frozen bread,"garlic bread, frozen",1014.0000000000008,8.36,16.6,41.7
+base culture keto frozen bread,"garlic bread, frozen",1014,8.36,16.6,41.7
 dave's killer bread® rockin' grains® organic whole grain english muffins,"rockin' grains organic english muffins, rockin' grains",226,9.68,2.42,41.9
 kroger® honey wheat bread,"bread, wheat or cracked wheat",274,10.67,4.53,47.54
 sara lee artesano hawaiian bread,"sara lee, 100% whole wheat bread",240,12,3,46
@@ -388,29 +388,29 @@ brazi bites® cheddar & parmesan brazilian frozen bread,"cheddar & parmesan braz
 delicious seeded bread 4 loaves,"deliciously seeded bread, deliciously seeded",250,17.9,12.5,28.6
 sara lee butter bread,"sara lee, butter pound cake",342,5.26,11.8,55.3
 sara lee delightful multi-grain bread,"bread, multi-grain (includes whole-grain)",265,13.4,4.23,43.3
-kroger® soft wheat bread,"wheat, soft white",1014.0000000000008,10.7,1.99,52.74000000000001
+kroger® soft wheat bread,"wheat, soft white",1014,10.7,1.99,52.74
 bimbo white bread,"bimbo, small soft white bread",260,8,2,50
 16 oz millet & chia gluten free bread 4 pack,"gluten free millet & chia bread, millet & chia",250,3.57,7.14,53.6
 16 oz whole grain bread 3 flavor variety bundle,"bread, whole grain white",238,10.66,2.15,43.91
 mestemacher bread protein bread,"bread, high protein, toasted",269,13.3,2.42,48.13
-king's hawaiian® original sweet dinner rolls,"rolls, dinner, sweet",1014.0000000000008,10,7.37,53.6
+king's hawaiian® original sweet dinner rolls,"rolls, dinner, sweet",1014,10,7.37,53.6
 nature's own perfectly crafted non gmo white bread,"craft white bread, craft white",273,9.09,4.55,51.5
 "pepperidge farm farmhouse butter bread, 22 oz loaf","pepperidge farm farmhouse butter bread, 22 oz loaf",267,8.89,2.22,53.3
 nature's own sweet hawaiian bread,"sweet hawaiian bread, sweet hawaiian",298,8.77,6.14,50.9
 sara lee sandwich white bread,egg sandwich on white bread,228,10.46,9.05,26.1
 pepperidge farm farmhouse honey white bread,"pepperidge farm farmhouse honey white bread, 22 oz loaf",289,11.1,2.22,53.3
 oroweat superior keto bread,"keto superior bread, keto",214,14.3,7.14,39.3
-simple truth™ gluten free white frozen bread,"simple truth, gluten free animal crackers",400,6.67,13.3,52.74000000000001
+simple truth™ gluten free white frozen bread,"simple truth, gluten free animal crackers",400,6.67,13.3,52.74
 "pepperidge farm farmhouse sweet hawaiian bread, 22 oz loaf","pepperidge farm farmhouse sweet hawaiian bread, 22 oz loaf",289,13.3,3.33,48.9
 pepperidge farm very thin white bread,"pepperidge farm very thin white bread, 16 oz.",267,8.89,4.44,51.1
 "nature's own homestyle white, small loaf size, sliced homestyle white bread, 12 oz loaf","homestyle white bread mini loaf, homestyle white",311,8.89,4.44,55.6
-genuine bavarian organic pumpernickel bread - case of 6 - 17.6 oz.,"bread, pumpernickel",1014.0000000000008,8.7,3.1,47.5
+genuine bavarian organic pumpernickel bread - case of 6 - 17.6 oz.,"bread, pumpernickel",1014,8.7,3.1,47.5
 delicious classic white bread 4 loaves,white bread loaves,240,6,3,48
 "nature's own ancient grain, small loaf size, sliced bread, 12 oz loaf","ancient grain artisan bread loaf, ancient grain",246,8.77,1.75,50.9
 bakehouse bread company pineapple coconut bread,"bread, fruit",374,6.01,18.1,47.34
 bakehouse zucchini bread,"bread, zucchini",306,5.05,13.14,42.64
-bakehouse bread company banana bread,"bread, banana, prepared from recipe, made with margarine",1014.0000000000008,4.3,10.5,54.6
-smart way wheat bread,"bread, wheat",1014.0000000000008,10.7,4.53,47.5
+bakehouse bread company banana bread,"bread, banana, prepared from recipe, made with margarine",1014,4.3,10.5,54.6
+smart way wheat bread,"bread, wheat",1014,10.7,4.53,47.5
 oroweat oatnut whole grain bread,"oatnut whole grains bread, oatnut",279,9.3,5.81,48.8
 pepperidge farm whole grain 15 grain bread,"pepperidge farm whole grain 15 grain bread, 24 oz loaf",279,11.6,5.81,46.5
 canyon bakehouse gluten free ancient grain 100% whole grain bread,"ancient grain 100% whole grain bread, ancient grain",250,7.14,5.36,46.4
@@ -419,7 +419,7 @@ bimbo pan tostado doble fibra double fiber toasted bread,"bimbo, pan doble fribr
 pepperidge farm whole grain honey wheat bread,"pepperidge farm whole grain honey wheat bread, 24 oz loaf",279,11.6,4.65,48.8
 pepperidge farm whole grain thin sliced 15 grain bread,"pepperidge farm whole grain thin sliced 15 grain bread, 14 oz loaf",280,12,6,46
 oroweat small slice oatnut bread,"oatnut small slice bread, oatnut",286,10.7,5.36,50
-udi's gluten free frozen delicious whole grain sandwich bread,"udi's, gluten free, soft & delicious white sandwich bread",1014.0000000000008,5.4,8.02,51.2
+udi's gluten free frozen delicious whole grain sandwich bread,"udi's, gluten free, soft & delicious white sandwich bread",1014,5.4,8.02,51.2
 genuine bavarian breads rye multigrain,"bread, rye",259,8.5,3.3,48.3
 private selection® wide pan multigrain bread,"private selection, sourdough wide pan bread",263,7.89,2.63,50
 schar gluten free artisan baker 10 grains and seeds bread,"10 grains & seeds artisan baker bread, 10 grains & seeds",258,4.84,4.03,51.6
@@ -435,14 +435,14 @@ the rustik oven artisan style sourdough bread,"sourdough round artisan style bre
 italian bread,italian bread,226,9.43,1.89,43.4
 pepperidge farm raisin cinnamon swirl breakfast bread,"pepperidge farm raisin cinnamon swirl breakfast bread, 16 oz loaf",303,6.06,4.55,60.6
 bakery fresh goodness garlic bread,"bakery fresh goodness, multigrain bread",280,12,4,52
-the cheesecake factory at home™ brown bread wheat dinner rolls,"rolls, dinner, wheat",1014.0000000000008,8.6,6.3,46
+the cheesecake factory at home™ brown bread wheat dinner rolls,"rolls, dinner, wheat",1014,8.6,6.3,46
 kroger® mozzarella twisted frozen bread,"kroger, mozzarella twisted bread sticks",292,13.8,10.8,35.4
 pepperidge farm texas toast frozen garlic bread 8 slices,"pepperidge farm texas toast frozen garlic bread, 8 slices, 11.25 oz. box",375,7.5,20,37.5
 backerhaus veit signature tuscan white sliced bread loaf,"mild tuscan loaf bread, tuscan",263,7.02,0.88,54.4
 thomas' cinnamon swirl bread,"bread, cinnamon",253,7.05,5.29,44.4
 nature's own perfectly crafted non-gmo brioche style bread,brioche,427,8.96,27.46,36.31
 kroger® parmesan garlic frozen bread,"garlic bread, with parmesan cheese, from frozen",351,8.78,16.83,41.14
-oroweat country potato bread,"bread, potato",1014.0000000000008,12.5,3.13,47.1
+oroweat country potato bread,"bread, potato",1014,12.5,3.13,47.1
 pepperidge farm swirl cinnamon breakfast bread,"pepperidge farm swirl cinnamon breakfast bread, 16 oz. loaf",303,9.09,4.55,60.6
 sun-maid cinnamon raisin bread,"sun-maid, raisin bread, cinnamon swirl, cinnamon swirl",312,9.38,4.69,56.2
 the cheesecake factory at home™ brown bread wheat sandwich loaf,"brown bread wheat sandwich loaf, brown bread",276,10.3,3.45,51.7
@@ -465,12 +465,12 @@ la brea bakery sliced french bread,"la brea bakery, sliced multigrain artisan sa
 s. rosen's® party cocktail rye bread,"s. rosen's, rye bread",250,7.14,3.57,46.4
 st pierre cinnamon brioche twist hand braided bread,"hand braided cinnamon brioche twist, cinnamon",300,6,9,44
 bakery fresh goodness crusty white french bread,"bakery fresh goodness, white bread",280,8,4,56
-d'italiano italian bread,"bread, italian",1014.0000000000008,9.49,2.73,48.1
+d'italiano italian bread,"bread, italian",1014,9.49,2.73,48.1
 kroger® cheesy garlic pull apart bread,"cheesy garlic pull-apart rolls, cheesy garlic",324,8.82,16.2,36.8
 king's hawaiian round sweet bread,"round hawaiian sweet bread, hawaiian sweet",298,8.77,7.02,52.6
 la brea bakery white sourdough bread,"la brea bakery, sliced white artisan sandwich bread",265,2.04,6.12,53.1
 private selection® cranberry walnut loaf artisan bread,"private selection, multi multigrain loaf bread",246,8.77,3.51,43.9
-wholesome harvest® blueberry & oat sliced bread,wholesome harvest bread,404,12.3,7.89,52.74000000000001
+wholesome harvest® blueberry & oat sliced bread,wholesome harvest bread,404,12.3,7.89,52.74
 italian bread everything topped,"everything italian bread, everything italian",232,8.93,2.68,44.6
 la brea bakery whole grain bread half loaf,"la brea bakery, garlic loaf",263,8.77,0.88,52.6
 wholesome harvest whole wheat sliced sandwich bread,"wholesome harvest, stone ground whole wheat bread",228,10.5,3.51,40.4
@@ -480,23 +480,23 @@ bakery fresh everything french bread,everything french bread,226,9.43,1.89,45.3
 mestemacher bread - 17.6 oz - case of 12,"lior buckwheat, 17.6 oz",92,2.98,0.6,19.6
 the essential baking company - take & bake italian bread - case of 16 - 16 oz.,"the essential baking company, organic olive bread",200,6,2,40
 mestemacher 17.6 oz organic three grain bread set of 3,"mestemacher, organic flax seed + chia bread",200,4.29,3.57,30
-simple kneads bread sourdough,"bread, french or vienna (includes sourdough)",1014.0000000000008,10.8,2.42,51.9
+simple kneads bread sourdough,"bread, french or vienna (includes sourdough)",1014,10.8,2.42,51.9
 larabar 1.6 oz banana bread,larabar banana bread fruit & nut bar,451,10.2,21.6,54
 "king's hawaiian original hawaiian bread, 16 ounce (pack of 12)","hawaiian bread, hawaiian",275,10,5,45
 mestemacher rustic sunflower seed bread,"sunflower seeds, flavored",567,18.45,32.1,25.92
 essential baking company - take & bake sourdough bread 16 oz,take & bake sourdough loaf,232,7.14,0.89,46.4
-picos bread sticks picos camperos by mas aliu 6.35 oz pack of 3,picos camperos mini olive oil breadsticks,433,13.3,10,52.74000000000001
+picos bread sticks picos camperos by mas aliu 6.35 oz pack of 3,picos camperos mini olive oil breadsticks,433,13.3,10,52.74
 the essential baking company - bread take & bake french - case of 16 - 16 oz,"french organic take & bake bread, french",250,7.14,0.89,51.8
 mestemacher rustic three grain bread,"three grain bread, three grain",176,7.35,2.94,35.3
 korn's pumpernickle rye bread,"pumpernickle & rye roll, pumpernickle & rye",306,8.33,5.56,52.8
 b&m brown bread original,"bread, boston brown",274,10.67,4.53,47.54
-bauducco 5.01 oz original toasted bread,"bauducco, original toast, original, original",389,11.1,9.26,52.74000000000001
+bauducco 5.01 oz original toasted bread,"bauducco, original toast, original, original",389,11.1,9.26,52.74
 "hero seeded bread low carb & keto friendly bread loaf 15 slices loaf, 2 loaves","seeded keto loaf, seeded",179,28.6,3.57,46.4
 the essential baking company - bake at home rosemary bread - case of 16 - 16 oz,"the essential baking company, organic sliced rosemary",236,7.27,4.55,41.8
-broadman church supplies communion bread,favorites emergency food supply,362,15.9,5.8,52.74000000000001
+broadman church supplies communion bread,favorites emergency food supply,362,15.9,5.8,52.74
 thomas' original english muffins,"george weston bakeries, thomas english muffins",972,8,1.8,46
 entenmann's little bites chocolate chip mini muffins,"muffin, chocolate chip",402,5.77,19.04,55.4
-edward & sons baked whole grain brown rice snaps® onion garlic - 3.5 oz (100 g),"edward & sons, baked brown rice snaps, onion garlic, onion garlic",333,6.67,6.67,52.74000000000001
+edward & sons baked whole grain brown rice snaps® onion garlic - 3.5 oz (100 g),"edward & sons, baked brown rice snaps, onion garlic, onion garlic",333,6.67,6.67,52.74
 5 oz delicious whole wheat toast,"bread, whole wheat, toasted",279,13.52,3.9,47.36
 dave's killer bread epic everything organic bagels,epic everything organic bagels,274,13.7,5.26,46.3
 dave's killer bread® plain awesome® bagels organic bagels,plain awesome organic bagels,274,11.6,3.16,50.5
@@ -514,11 +514,11 @@ joseph's™ flax oat whole wheat pita bread,"bread, pita, whole wheat",262,9.8,1
 private selection® challah bread,"bread, egg, challah",287,9.5,6,47.8
 kroger® frozen bread dough,"bread, dough, fried",384,9.36,18.84,44.97
 "wonder bread dinner rolls, soft white bread rolls, 12 count",soft dinner breads rolls,310,9.52,7.14,52.4
-canyon bakehouse honey whole grain gluten free english muffins fresh,"english muffins, whole grain white",1014.0000000000008,7.02,1.75,50.2
+canyon bakehouse honey whole grain gluten free english muffins fresh,"english muffins, whole grain white",1014,7.02,1.75,50.2
 oroweat multigrain sandwich thins,"multigrain sandwich thins rolls, multigrain",263,10.5,3.51,49.1
 schar - ciabatta multigrain,"multigrain ciabatta roll square, multigrain ciabatta",280,9,3,54
 new york bakery frozen garlic breadsticks,"breadsticks, soft, frozen",313,11.09,9.16,46.37
-new york bakery breadsticks with real garlic,"pizza hut, breadstick, parmesan garlic",1014.0000000000008,12.2,12.9,44.5
+new york bakery breadsticks with real garlic,"pizza hut, breadstick, parmesan garlic",1014,12.2,12.9,44.5
 kroger® pull aparts 6 cheese & garlic breadsticks,pull apart garlic loaf with real cheese,364,10.9,16.4,41.8
 kroger® garlic frozen texas toast,"kroger, garlic texas toast",360,6,20,38
 king's hawaiian® savory butter dinner rolls,"king's hawaiian, savory butter rolls",357,10.7,8.93,57.1
@@ -560,7 +560,7 @@ simple truth™ natural lamb for stew meat,"stew, lamb",117,8.19,6.39,6.29
 beyond meat stack burger™ plant-based patties,beyond burger plant-based patties,204,17.7,12.4,6.19
 kroger® three meat crispy crust personal frozen pizza,"three meat crispy crust pizza, three meat",252,7.48,10.2,32
 hillshire farm ultra thin sliced honey roasted turkey breast sandwich meat,hillshire farm sliced turkey breast,96.2,15.4,1.98,4.19
-land o' frost® premium honey ham lunch meat,"cereal, o's, honey nut",385,8.62,5.37,52.74000000000001
+land o' frost® premium honey ham lunch meat,"cereal, o's, honey nut",385,8.62,5.37,52.74
 oscar mayer carving board slow cooked sliced ham deli lunch meat,"oscar mayer, ham (chopped with natural juice)",754,16.3,11.2,3.65
 oscar mayer cotto salami sliced lunch meat,"oscar mayer, cotto salami",250,14.3,21.4,3.57
 oscar mayer deli fresh slow roasted roast beef sliced deli meat,"oscar mayer, slow roasted beef",107,17.9,3.57,1.79
@@ -573,7 +573,7 @@ buddig honey ham lunch meat 2oz,"buddig, original honey ham",164,16.4,9.09,3.64
 hillshire farm® ultra thin sliced roast beef lunch meat,"roast beef ultra-thin deli slices, roast beef",143,19.6,6.25,1.79
 hillshire farm ultra thin sliced smoked ham sandwich meat,"hillshire farm, smoked ham",167,17.9,9.52,2.38
 oscar mayer sub kit with smoked ham & smoked turkey breast sliced deli lunch meats variety pack,"oscar mayer, ham & turkey breast sub kit, honey smoked, honey smoked",105,14,3.51,7.02
-oscar mayer lean oven roasted white turkey sliced lunch meat,"oscar mayer, braunschweiger liver sausage (sliced)",1014.0000000000008,14.2,29.4,2.6
+oscar mayer lean oven roasted white turkey sliced lunch meat,"oscar mayer, braunschweiger liver sausage (sliced)",1014,14.2,29.4,2.6
 hillshire farm ultra thin sliced brown sugar ham sandwich meat,"hillshire farm, deli select, ultra thin brown sugar ham",107,16.1,2.68,5.36
 hillshire farm ultra thin sliced black forest ham sandwich meat,ultra thin slices black forest ham,109,18.2,1.82,1.82
 oscar mayer ham & cheese meat loaf sliced deli lunch meat with real kraft cheese,meat loaf made with ham,179,20.65,7.52,6.16
@@ -596,7 +596,7 @@ kroger® roast beef traditional deli thin sliced,"roast beef, deli style, prepac
 curly's hickory smoked & seasoned baby back pork ribs with barbecue sauce,hickory smoked & seasoned with barbecue sauce baby back pork ribs,238,14.3,14.3,14.3
 wild planet albacore wild tuna,"albacore wild tuna, albacore",230,23,13.3,0.88
 "impossible™ indulgent burger patties meat from plants, 2 ct","burger patties made from plants, burger",204,16.8,11.5,7.96
-boar’s head first cut corned beef brisket,"beef, cured, corned beef, brisket, cooked",1014.0000000000008,18.2,19,0.47
+boar’s head first cut corned beef brisket,"beef, cured, corned beef, brisket, cooked",1014,18.2,19,0.47
 just bare® lightly breaded frozen fully cooked chicken breast strips,"chicken tenders or strips, breaded, from frozen",240,14.62,13.58,14.86
 just bare® lightly breaded frozen fully cooked spicy chicken breast bites,"lightly breaded chicken breast spicy bites, lightly breaded",190,19,8.33,11.9
 applegate all natural gluten-free frozen chicken nuggets,all natural gluten free chicken nuggets,194,18.8,9.41,8.24
@@ -609,13 +609,13 @@ beef choice for stir fry,"stir-fry beef strips, stir-fry beef",143,23.8,3.57,1.1
 private selection® top sirloin angus beef steak,"denny's, top sirloin steak",182,28.9,7.34,0.14
 private selection™ angus beef boneless ribeye steak,boneless angus beef ribeye steak,212,19.5,14.2,0.88
 eat meati® mushroomroot™ classic steaks,"t.g.i. friday's, classic sirloin steak (10 oz)",196,31,7.83,0.47
-eat meati™ classic cutlet,"cereal, ready-to-eat, nfs",379,7.74,4.01,52.74000000000001
+eat meati™ classic cutlet,"cereal, ready-to-eat, nfs",379,7.74,4.01,52.74
 yummy® meatless plant-based dino buddies® dinosaur-shaped vegan nuggets,"meatless breaded dinosaur-shaped plant-based protein nuggets, meatless",244,10.3,11.5,24.4
 quorn™ meatless diced chiqin pieces,meatless chiqin wings,241,14.3,9.82,25
 simple truth organic™ 100% grass-fed beef homestyle frozen meatballs,"organic grass fed beef meatballs, beef",247,16.5,16.5,7.06
 quorn™ meatless grounds frozen meal,"pancakes and sausage, frozen meal",272,9,13.85,27.92
 dr. praeger’s® meatless perfect burger®,"dr. praeger's, italian veggie burgers",167,5.13,7.69,19.2
-quorn™ meatless nuggets,"bacon, meatless",1014.0000000000008,11.7,29.5,5.31
+quorn™ meatless nuggets,"bacon, meatless",1014,11.7,29.5,5.31
 gardein® ultimate plant-based® meatalls,ultimate plant-based burger,186,17.7,9.73,6.19
 simple truth organic™ grass-fed beef italian style frozen meatballs,"meatballs, frozen, italian style",286,14.4,22.2,8.06
 private selection® oven roasted deli turkey breast sliced,"oven roasted deli selected turkey breast, oven roasted",89,16.1,1.79,3.57
@@ -641,7 +641,7 @@ morningstar farms® original plant based chik'n patties,plant-based crispy chik'
 morningstar farms® meal starters grillers plant based vegan crumbles,"morningstar farms veggie meal starters veggie grillers crumbles, 12 oz",115,17.3,3.85,7.69
 morningstar farms® buffalo plant based chik'n patties,"plant-based buffalo chik'n pizza, buffalo chik'n",294,7.06,14.1,33.5
 morningstar farms® veggie breakfast maple flavored plant based sausage patties,morningstar farms breakfast sausage patties,187,23.7,7,10.2
-private selection® beef bologna uncured deli sliced,"bologna, beef",1014.0000000000008,10.9,26.1,4.29
+private selection® beef bologna uncured deli sliced,"bologna, beef",1014,10.9,26.1,4.29
 morningstar farms® veggie breakfast hot and spicy plant based sausage patties,morningstar farms breakfast hot & spicy sausage patties 8oz,222,25.6,9.3,11.9
 morningstar farms® spicy black bean plant based veggie burgers,morningstar farms veggie burgers spicy black bean 18.9oz,179,13.5,6.5,22.1
 morningstar farms® grillers prime plant based veggie burgers,morningstar farms veggie burgers grillers prime,197,23,9.6,8.6
@@ -707,15 +707,15 @@ kroger® plain chicken pouch,"chicken ""wings"", plain, from precooked",294,18.6
 home chef pulled chicken breast,pulled chicken breast,131,22.6,4.17,1.19
 tyson frozen chicken patties,"chicken patty, frozen, cooked",287,14.8,19.6,12.8
 tyson restaurant style caribbean style crispy wings,"restaurant, family style, coleslaw",159,0.88,11.8,12.4
-just bare® lightly breaded frozen fully cooked chicken breast bites,"chicken breast tenders, breaded, cooked, microwaved",1014.0000000000008,16.4,12.9,17.6
+just bare® lightly breaded frozen fully cooked chicken breast bites,"chicken breast tenders, breaded, cooked, microwaved",1014,16.4,12.9,17.6
 tyson any'tizers frozen crispy chicken fries,"chicken, fried, with potatoes, vegetable, frozen meal",157,10.26,8.13,10.63
 yummy dino buddies frozen fully cooked dinosaur shaped chicken breast nuggets,dino buddies chicken breast nuggets,224,10.5,11.8,19.7
 tyson any’tizers frozen crispy boneless chicken bites,"chicken patty, or nuggets, boneless, breaded, potatoes, vegetable, frozen meal",175,10.68,8.1,16
 tyson® fully cooked honey battered chicken breast tenders,"honey-battered chicken breast tenders, honey-battered",247,11.8,15.3,14.1
 tyson any'tizers frozen sweet bbq flavored boneless chicken bites,"bbq flavored boneless chicken bites, bbq",120,16.2,4.23,9.15
 kroger® fully cooked frozen grilled chicken breast strips,"grilled fully cooked chicken breast strips, grilled chicken",131,25,1.79,2.38
-kroger® breaded chicken nuggets,"school lunch, chicken nuggets, whole grain breaded",1014.0000000000008,15.7,12.9,22.9
-kroger® popcorn chicken,"kfc, popcorn chicken",1014.0000000000008,17.7,21.7,21.2
+kroger® breaded chicken nuggets,"school lunch, chicken nuggets, whole grain breaded",1014,15.7,12.9,22.9
+kroger® popcorn chicken,"kfc, popcorn chicken",1014,17.7,21.7,21.2
 tyson® any'tizers® buffalo style boneless chicken bites,"buffalo style boneless chicken bites, buffalo style",167,11.9,7.14,13.1
 tyson® fully cooked southern style chicken breast tenderloins,"southern style chicken breast tenderloins, southern style",214,15.5,10.7,14.3
 Product_1,Description_1,89,15.35,3.58,33.6
